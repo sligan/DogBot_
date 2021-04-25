@@ -1,5 +1,5 @@
-h1 Weather Bot for Telegram 🌦
-This weather bot (https://yandex.ru/) allows you to find out what the weather in the city today, tomorrow and the day after tomorrow. 
+# Weather Bot for Telegram 🌦
+This weather bot (https://t.me/WeatherShelk_bot) allows you to find out what the weather in the city today, tomorrow and the day after tomorrow. 
 
 ___
 
