@@ -1,6 +1,7 @@
 Starting a bot on the server
 `
-pm2 start WeatherBot_telegram.py --interpreter python3`
+pm2 start WeatherBot_telegram.py --interpreter python3
+`
 Reboot the bot
 `
 pm2 restart WeatherBot_telegram`
