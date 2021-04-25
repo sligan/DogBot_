@@ -3,9 +3,10 @@ This weather bot (https://t.me/WeatherShelk_bot) allows you to find out what the
 
 ___
 
-h2 How to operate application? 
+## How to operate application? 
 
-Starting a bot on…
+Starting a bot on server
+
 pm2 start WeatherBot_telegram.py --interpreter python3
 
 Reboot the bot
