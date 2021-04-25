@@ -9,11 +9,13 @@ Reboot the bot
 `
 pm2 restart WeatherBot_telegram
 `
+
 Stop bot 
 
 `
 pm2 stop WeatherBot_telegram
 `
+
 End bot process
 
 `
